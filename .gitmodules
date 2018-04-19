@@ -4,3 +4,6 @@
 [submodule "Pen Tracking Algorithm/MarkerMapper"]
 	path = Pen Tracking Algorithm/MarkerMapper
 	url = git@github.com:neconeconeco/MarkerMapper
+[submodule "Interactive Application/3D-Painting"]
+	path = Interactive Application/3D-Painting
+	url = git@github.com:neconeconeco/3D-Painting
