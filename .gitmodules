@@ -1,3 +1,6 @@
 [submodule "Pen Tracking Algorithm/ARTest"]
 	path = Pen Tracking Algorithm/ARTest
 	url = git@github.com:neconeconeco/ARTest
+[submodule "Pen Tracking Algorithm/MarkerMapper"]
+	path = Pen Tracking Algorithm/MarkerMapper
+	url = git@github.com:neconeconeco/MarkerMapper
