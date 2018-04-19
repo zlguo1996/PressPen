@@ -7,3 +7,6 @@
 [submodule "Interactive Application/3D-Painting"]
 	path = Interactive Application/3D-Painting
 	url = git@github.com:neconeconeco/3D-Painting
+[submodule "Pressure Measurement/Pressure-Measurement"]
+	path = Pressure Measurement/Pressure-Measurement
+	url = git@github.com:neconeconeco/Pressure-Measurement
