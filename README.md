@@ -11,6 +11,6 @@ The project mainly contains three parts: 1. Realization of tracking algorithm, 2
 
 |id|dictionary name|introduction|  
 |---|---|---|  
-|1|[Interactive Application](/Interactive Application)|Contains PressPen library for Unity3d with two interactive application developed by Unity3d: 1. 3D paiting application, 2. 3D sandbox application|  
-|2|[Pen Tracking Algorithm](/Pen Tracking Algorithm)|Partial realization of *DodecaPen* by C++ and interface for C#. ARTest is the first version while Markermapper is the final version which is more clean and extendible|  
-|3|[Pressure Measurement](/Pressure Measurement)|Design and result of the hardware and some Arduino code for it|  
+|1|[Interactive Application](Interactive Application)|Contains PressPen library for Unity3d with two interactive application developed by Unity3d: 1. 3D paiting application, 2. 3D sandbox application|  
+|2|[Pen Tracking Algorithm](Pen Tracking Algorithm)|Partial realization of *DodecaPen* by C++ and interface for C#. ARTest is the first version while Markermapper is the final version which is more clean and extendible|  
+|3|[Pressure Measurement](Pressure Measurement)|Design and result of the hardware and some Arduino code for it|  
