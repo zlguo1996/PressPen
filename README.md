@@ -16,5 +16,5 @@ The project mainly contains three parts: 1. Realization of tracking algorithm, 2
 |3|[Pressure Measurement](Pressure%20Measurement)|Design and result of the hardware and some Arduino code for it|  
 
 ## Demo Video
-A Chinese demo video could be found on Youtube: . 
+A Chinese demo video could be found on [Youtube](https://youtu.be/TBKHy2FkBvc). 
  
